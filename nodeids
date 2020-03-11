@@ -1,0 +1,6 @@
+[
+  "TestInvoice.py::test_CanFindInvoiceClass",
+  "TestInvoice.py::test_CanCalucateTotalImpurePrice",
+  "TestInvoice.py::test_CanCalucateTotalDiscount",
+  "TestInvoice.py::test_CanCalucateTotalPurePrice"
+]
